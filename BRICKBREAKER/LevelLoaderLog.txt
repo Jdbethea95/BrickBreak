@@ -1,0 +1,1092 @@
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	Start Program.
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Alien
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Column
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 17:01:21 2023] ThreadID[8772]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	Start Program.
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Alien
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Column
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 17:23:09 2023] ThreadID[23376]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	Start Program.
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Alien
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Column
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 17:39:52 2023] ThreadID[17524]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	Start Program.
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Alien
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Column
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 17:40:06 2023] ThreadID[24416]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	Start Program.
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Alien
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Column
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 17:44:17 2023] ThreadID[31800]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	Start Program.
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:31:49 2023] ThreadID[6204]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	Start Program.
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:36:23 2023] ThreadID[22092]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:36:24 2023] ThreadID[22092]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:36:24 2023] ThreadID[22092]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:36:24 2023] ThreadID[22092]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	Start Program.
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:37:04 2023] ThreadID[21304]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	Start Program.
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:42:11 2023] ThreadID[22456]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	Start Program.
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:43:09 2023] ThreadID[31436]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	Start Program.
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:43:54 2023] ThreadID[19372]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	Start Program.
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:46:08 2023] ThreadID[32044]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	Start Program.
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:47:59 2023] ThreadID[6932]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	Start Program.
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:49:40 2023] ThreadID[33832]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	Start Program.
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:50:28 2023] ThreadID[29340]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	Start Program.
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:51:19 2023] ThreadID[520]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	Start Program.
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:51:56 2023] ThreadID[20960]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	Start Program.
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:53:13 2023] ThreadID[15784]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	Start Program.
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:54:29 2023] ThreadID[14864]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	Start Program.
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:57:27 2023] ThreadID[38124]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	Start Program.
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:57:50 2023] ThreadID[40040]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	Start Program.
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:58:03 2023] ThreadID[34172]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	Start Program.
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Alien
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Column
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 18:59:54 2023] ThreadID[7056]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	Start Program.
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Alien
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Column
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 19:01:14 2023] ThreadID[13168]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	Start Program.
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Alien
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Column
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 19:03:32 2023] ThreadID[568]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	Start Program.
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Alien
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Column
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 19:04:45 2023] ThreadID[20512]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	Start Program.
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Container_Small.006
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Camera Detected: Camera
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Container_Small.001
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Container_Small.002
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Container_Small
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Container_Small.004
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Container_Small.005
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Container_Small.007
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Alien.001
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Alien
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Alien.003
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Alien.002
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Column
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Model Detected: Planet_1
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	H2B Imported: Alien.h2b
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	H2B Imported: Column.h2b
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[INFO]	H2B Imported: Planet_1.h2b
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Jun 21 19:05:49 2023] ThreadID[1836]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	Start Program.
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Container_Small.006
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -2.532200 Y 7.490100 Z -3.173700
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Camera Detected: Camera
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -4.696300 Y 7.543000 Z -9.835600
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Container_Small.001
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -4.121900 Y 7.504500 Z -3.173700
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Container_Small.002
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -5.876600 Y 7.520400 Z -3.173700
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Container_Small
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -7.747000 Y 7.537300 Z -3.173700
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Container_Small.004
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -6.749000 Y 8.820200 Z -3.226600
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Container_Small.005
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -4.924800 Y 8.803700 Z -3.226600
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Container_Small.007
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -3.243800 Y 8.788500 Z -3.226600
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Alien.001
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Alien
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -3.129900 Y 9.340500 Z -2.816300
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Alien.003
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Alien.002
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -6.724600 Y 9.373000 Z -2.816300
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Column
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -3.021600 Y 0.649300 Z -0.987700
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Model Detected: Planet_1
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	Location: X -4.411000 Y 1.195000 Z 0.000000
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[MESSAGE]	Game Level File Reading Complete.
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	H2B Imported: Alien.h2b
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	H2B Imported: Column.h2b
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[INFO]	H2B Imported: Planet_1.h2b
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu Jun 22 00:11:12 2023] ThreadID[8796]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]

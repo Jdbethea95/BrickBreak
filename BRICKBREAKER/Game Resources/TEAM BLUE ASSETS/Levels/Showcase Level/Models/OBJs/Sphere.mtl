@@ -1,0 +1,15 @@
+# Blender MTL File: 'TeamBlueAssetCollection.blend'
+# Material Count: 1
+
+newmtl Tan
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.570424 0.188887 0.034072
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Quachk\\Desktop\\School\\DEV4\\team-game-project-team-blue-2306\\Example Space Game\\Game Resources\\TEAM BLUE ASSETS\\Desktop\\TEAM BLUE ASSETS\\White_Brick\\White_Brick\\Textures\\White_Brick_Normal.png
+map_Ns C:\\Users\\Quachk\\Desktop\\School\\DEV4\\team-game-project-team-blue-2306\\Example Space Game\\Game Resources\\TEAM BLUE ASSETS\\Desktop\\TEAM BLUE ASSETS\\White_Brick\\White_Brick\\Textures\\White_Brick_Roughness.png
+refl C:\\Users\\Quachk\\Desktop\\School\\DEV4\\team-game-project-team-blue-2306\\Example Space Game\\Game Resources\\TEAM BLUE ASSETS\\Desktop\\TEAM BLUE ASSETS\\White_Brick\\White_Brick\\Textures\\White_Brick_Metallic.png

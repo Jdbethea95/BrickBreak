@@ -1,0 +1,34 @@
+﻿  Building Custom Rule C:/Users/shock/Desktop/Current Month/M15_PP4/Repo/team-game-project-team-blue-2306/BRICKBREAKER/CMakeLists.txt
+  cmake_pch.cxx
+  **Dependency Test Output**
+  **End Dependency Test Output**
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\include\xlocale(254,57): warning C4996: 'std::codecvt_utf8<wchar_t,1114111,(std::codecvt_mode)0>': warning STL4017: std::wbuffer_convert, std::wstring_convert, and the <codecvt> header (containing std::codecvt_mode, std::codecvt_utf8, std::codecvt_utf16, and std::codecvt_utf8_utf16) are deprecated in C++17. (The std::codecvt class template is NOT deprecated.) The C++ Standard doesn't provide equivalent non-deprecated functionality; consider using MultiByteToWideChar() and WideCharToMultiByte() from <Windows.h> instead. You can define _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\include\codecvt(33,52): message : see declaration of 'std::codecvt_utf8'
+C:\Users\shock\Desktop\Current Month\M15_PP4\Repo\team-game-project-team-blue-2306\BRICKBREAKER\Source\../gateware-main/Gateware.h(8640): message : see reference to function template instantiation 'std::locale::locale<std::codecvt_utf8<wchar_t,1114111,(std::codecvt_mode)0>>(const std::locale &,const _Facet *)' being compiled
+          with
+          [
+              _Facet=std::codecvt_utf8<wchar_t,1114111,(std::codecvt_mode)0>
+          ]
+  tinyxml2.cpp
+  Application.cpp
+  BrickData.cpp
+  BulletData.cpp
+  EnemyData.cpp
+  GemData.cpp
+  PlayerData.cpp
+  Prefabs.cpp
+  SballData.cpp
+  FileIntoString.cpp
+  Font.cpp
+  GameConfig.cpp
+  Main.cpp
+  Sprite.cpp
+  BrickLogic.cpp
+  BulletLogic.cpp
+  EnemyLogic.cpp
+  LevelLogic.cpp
+  PhysicsLogic.cpp
+  PlayerLogic.cpp
+  Generating Code...
+  flecs.c
+  BRICKBREAKER.vcxproj -> C:\Users\shock\Desktop\Current Month\M15_PP4\Repo\team-game-project-team-blue-2306\BRICKBREAKER\build\Release\BRICKBREAKER.exe

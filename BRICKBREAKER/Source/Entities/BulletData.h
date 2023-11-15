@@ -1,0 +1,45 @@
+// This class creates all types of bullet prefabs
+//#ifndef BULLETDATA_H
+
+//#ifndef BULLETDATA_H
+
+#ifndef BALLDATA_H
+#define BALLDATA_H
+
+
+
+//#define BULLETDATA_H
+
+// Contains our global game settings
+#include "../GameConfig.h"
+#include "../Packet.h"
+
+//(avoid name collisions)
+namespace BBG
+{
+	class BallData 
+	{
+	public:
+		// Load required entities and/or prefabs into the ECS 
+		bool Load(std::shared_ptr<flecs::world> _game, std::weak_ptr<const GameConfig> _gameConfig, std::vector<GamePacket> strpkt, GW::AUDIO::GAudio _audioEngine);
+
+		// Unload the entities/prefabs from the ECS
+		bool Unload(std::shared_ptr<flecs::world> _game);
+
+	};
+
+	//class BulletData
+	//{
+	//public:
+	//	// Load required entities and/or prefabs into the ECS 
+	//	bool Load(	std::shared_ptr<flecs::world> _game,
+	//				std::weak_ptr<const GameConfig> _gameConfig,
+	//				GW::AUDIO::GAudio _audioEngine);
+	//	// Unload the entities/prefabs from the ECS
+	//	bool Unload(std::shared_ptr<flecs::world> _game);
+	//};
+
+};
+
+#endif // !BALLDATA_H
+//#endif

@@ -1,0 +1,10 @@
+^C:\USERS\SHOCK\DESKTOP\CURRENT MONTH\M15_PP4\REPO\TEAM-GAME-PROJECT-TEAM-BLUE-2306\BRICKBREAKER\BUILD\CMAKEFILES\9F925ED89D3A3B86320F30B04441D822\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/shock/Desktop/Current Month/M15_PP4/Repo/team-game-project-team-blue-2306/BRICKBREAKER" "-BC:/Users/shock/Desktop/Current Month/M15_PP4/Repo/team-game-project-team-blue-2306/BRICKBREAKER/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/shock/Desktop/Current Month/M15_PP4/Repo/team-game-project-team-blue-2306/BRICKBREAKER/build/BRICKBREAKER.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
